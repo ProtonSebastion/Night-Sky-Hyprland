@@ -1,0 +1,41 @@
+* {
+font-family: "JetBrains Mono Nerd Font";
+}
+
+window {
+    background-color: rgba(30, 30, 46, 0.8); /* Dark purple haze */
+}
+
+button {
+    margin: 20px;
+    border-radius: 20px;
+    border: 2px solid #45475a; /* Subtle purple-grey border */
+    background-color: #1e1e2e; /* Deep purple base */
+    color: #cdd6f4;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 40%; /* Icons are now actually visible */
+    transition: all 0.3s cubic-bezier(.55, 0.0, .28, 1.682);
+}
+
+button:hover, button:focus {
+    background-color: #6495ED;
+    border-color: #cba6f7;     /* Soft Purple border on hover */
+    background-size: 50%;      /* Icon grows slightly when you hover */
+    color: #11111b;
+}
+
+/* This makes the text labels under the icons look clean */
+button text {
+    font-size: 14px;
+    margin-top: 80px; /* Pushes text below the icon */
+}
+
+
+#lock { background-image: url("icons/lock.png"); }
+#logout { background-image: url("icons/logout.png"); }
+#suspend { background-image: url("icons/sleep.png"); }
+#shutdown { background-image: url("icons/power.png"); }
+#reboot { background-image: url("icons/restart.png"); }
+#hibernate { background-image: url("icons/hibernate.png"); }
+
