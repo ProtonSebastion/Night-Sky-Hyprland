@@ -5,11 +5,10 @@ I also Suggest You use Arch Cuz its cool and Your local exception is a filthy mo
 # features
 works on RTX enabled garfieldcs card
 i5 amzign
-0.6666667% coded by ai
-
+0.1% questioned by ai
+99% definetly BORRROWING dotfiles
 # credit
-gemini: ai
-me: amazing guy that made this thing not the ai trust
+me: Dumb fuck had to read the manual alot
 hp: making laptop victus (warnin might not work on ur asus tuf)
 nvidia: making my life a living hell
 (github) @jakoolit: cool guy
