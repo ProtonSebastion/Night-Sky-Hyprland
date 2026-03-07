@@ -1,0 +1,59 @@
+* {
+font-family: "JetBrainsMono Nerd Font";
+font-size: 13px;
+}
+
+window#waybar {
+    background-color: transparent;
+}
+
+
+#custom-startmenu,
+#workspaces,
+#taskbar,
+#tray,
+#custom-notification,
+#pulseaudio,
+#battery,
+#clock,
+#custom-power {
+background-color: #1e1e2e;
+color: #cdd6f4;
+padding: 0 12px;
+margin: 4px 4px;
+border-radius: 12px;
+border: 1px solid #45475a;
+}
+
+
+#custom-notification {
+color: #6495ED;
+}
+
+
+#network {
+background-color: #1e1e2e;
+color: #6495ED;
+border: 1px solid #45475a;
+border-right: none;
+border-radius: 12px 0 0 12px;
+margin: 4px 0 4px 4px;
+padding: 0 5px 0 12px;
+}
+
+
+#custom-bluetooth {
+background-color: #1e1e2e;
+color: #cba6f7;
+border: 1px solid #45475a;
+border-left: none;
+border-radius: 0 12px 12px 0;
+margin: 4px 4px 4px 0;
+padding: 0 12px 0 5px;
+}
+
+
+#custom-startmenu { color: #6495ED; font-size: 16px; }
+#clock { color: #6495ED; font-weight: bold; }
+#custom-power { color: #2a52be; }
+#workspaces button.active { color: #cba6f7; }

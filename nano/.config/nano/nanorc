@@ -1,0 +1,15 @@
+set mouse
+set linenumbers
+set nohelp
+set indicator
+set constantshow
+set softwrap
+set tabsize 4
+set tabstospaces
+
+
+set titlecolor bold,white,blue
+set statuscolor bold,white,blue
+set numbercolor bold,blue,black
+set keycolor cyan,black
+set functioncolor lightblue,black
