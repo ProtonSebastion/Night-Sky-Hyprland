@@ -26,6 +26,15 @@ For /etc/default/grub Add nvidia-drm.modeset=1 Inside The GRUB_CMDLINE_LINUX_DEF
 
 For /etc/environment Add NVD_BACKEND=direct
 
+
+### Reminder I use a victus 15 and here are the specs of it
+* **Model:** [HP Victus 15-fa12xxx](https://support.hp.com/id-id/product/details/victus-by-hp-15.6-inch-gaming-laptop-15-fa1000/2101566350)
+* **Processor:** Intel® Core™ i5-13420H 
+* **Graphics:** NVIDIA® GeForce RTX™ 3050 Laptop GPU
+* **Memory:** 16GB DDR4
+* **Display:** 144Hz FHD
+
+
 # Credits
 
 [YourLocalException](https://github.com/yourlocalexception)
