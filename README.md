@@ -19,4 +19,4 @@ This HyprRice Has Some Rooms To improve
 
 Before Donloawding The rice Pls Add These For Grub,mkinitcpio and Environment
 
-For mkinitcpio Pls change the MODULES() With MODULES(nvidia nvidia_modeset nvidia_uvm nvidia_drm)
+For mkinitcpio Pls change the MODULES = () With MODULES =(nvidia nvidia_modeset nvidia_uvm nvidia_drm)
