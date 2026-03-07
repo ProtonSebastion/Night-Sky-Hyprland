@@ -4,3 +4,13 @@
 # Night Sky Hyprland
 
 Made By ProtonSebastian
+
+This HyprRice Has Some Rooms To improve
+
+# Features
+
+1.Supports Nvidia gpus
+
+2.Uses Kitty Terminal
+
+3.Will Change to quickshell(Soon)
