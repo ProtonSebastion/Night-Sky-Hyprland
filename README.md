@@ -16,3 +16,7 @@ This HyprRice Has Some Rooms To improve
 3.Will Change to quickshell(Soon)
 
 # ⚠️ Warning (For Nvidia Users)
+
+Before Donloawding The rice Pls Add These For Grub,mkinitcpio and Environment
+
+For mkinitcpio Pls change the MODULES() With MODULES(nvidia nvidia_modeset nvidia_uvm nvidia_drm)
