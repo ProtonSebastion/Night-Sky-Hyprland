@@ -27,5 +27,8 @@ For /etc/environment Add NVD_BACKEND=direct
 
 # Credits
 
-[YourLocalException][https://github.com/yourlocalexception]
+[YourLocalException](https://github.com/yourlocalexception)
 
+[Jakoolit](https://github.com/jakoolit)
+
+[End-4](https://github.com/end-4)
