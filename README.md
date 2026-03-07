@@ -23,6 +23,6 @@ For /etc/mkinitcpio.conf  change the MODULES=() With MODULES=(nvidia nvidia_mode
 
 For /etc/default/grub Add nvidia-drm.modeset=1 Inside The GRUB_CMDLINE_LINUX_DEFAULT (GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 quiet nvidia-drm.modeset=1")
 
-For /etc/environment Add NVD_BACKEND=direct , LIBVA_DRIVER_NAME=nvidia , GBM_BACKEND=nvidia-drm And __GLX_VENDOR_LIBRARY_NAME=nvidia
+For /etc/environment Add NVD_BACKEND=direct
 
 
