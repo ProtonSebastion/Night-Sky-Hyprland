@@ -14,3 +14,5 @@ This HyprRice Has Some Rooms To improve
 2.Uses Kitty Terminal
 
 3.Will Change to quickshell(Soon)
+
+# ⚠️ Warning (For Nvidia Users)
