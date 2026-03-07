@@ -25,4 +25,7 @@ For /etc/default/grub Add nvidia-drm.modeset=1 Inside The GRUB_CMDLINE_LINUX_DEF
 
 For /etc/environment Add NVD_BACKEND=direct
 
+# Credits
+
+[YourLocalException][https://github.com/yourlocalexception]
 
