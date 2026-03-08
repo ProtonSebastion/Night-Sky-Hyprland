@@ -28,7 +28,7 @@ For /etc/environment Add NVD_BACKEND=direct
 
 
 ### Reminder I use a victus 15 and here are the specs of it
-* **Model:** [HP Victus 15-fa12xxx](https://support.hp.com/id-id/product/details/victus-by-hp-15.6-inch-gaming-laptop-15-fa1000/2101566350)
+* **Model:** [HP Victus 15-fa2716TX](https://support.hp.com/us-en/drivers/victus-by-hp-15.6-inch-gaming-laptop-15-fa2000/model/2102671379?sku=B7WA6PA)
 * **Processor:** Intel® Core™ i5-13420H 
 * **Graphics:** NVIDIA® GeForce RTX™ 3050 Laptop GPU
 * **Memory:** 16GB DDR4
